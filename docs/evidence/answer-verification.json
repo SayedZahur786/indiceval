@@ -1,0 +1,1952 @@
+[
+  {
+    "task_id": "code-000",
+    "task_sha256": "9b08e3339aad30a09d862a1e10d1a351bc0ae265e1a74422f152a4043310d7fe",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-001",
+    "task_sha256": "74da2bc4e32f42b98a924c13aaf21367d5bb9b0c92d13118929f7797e90c52ea",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-002",
+    "task_sha256": "87108515919ebc70295311aeb20c8d7f99dfb7c652a780a93f0805777fcef393",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-003",
+    "task_sha256": "ee2f5ddb72a491912844255e46cd89a33dddb1dea45c222e81dfec2ce0fc19b1",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-004",
+    "task_sha256": "6443d46a45537b0df6c0892ac15e796eb706727a8f4a1ea0768537665a88ed32",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-005",
+    "task_sha256": "39fb10be1bae56489a42426c340afb675dfb6618dffabff787466b8f04313a23",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-006",
+    "task_sha256": "e721bbb9745f3d2cbc71419e537afb7d46846b1e1fc7bd580c9064aa253c3a72",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-007",
+    "task_sha256": "ee5e896e97d87866a90db258d6d2cd07465030c4c714bc19c5c12100e4b29501",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-008",
+    "task_sha256": "2348bb2ee5be768ee92046579cb09d81530a4dc797e73a40b6cbaabe866f2c42",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-009",
+    "task_sha256": "d8fee32ba0c6c10f648a2223dc487e933e38e184787e6d78edef3e15769eb121",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-010",
+    "task_sha256": "da79dfb3c932daf764870114614a83888fc59ad470ed2c096110296a42d8a42f",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-011",
+    "task_sha256": "0956a857b0194d746bc81862deebca323d5ef9041e10238a6973784695a9bf73",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-012",
+    "task_sha256": "0314b800801d8155efdaa03aaaccf061158e8965fb0203c674f62e5584529da1",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-013",
+    "task_sha256": "f1f585129aad2771d384cc49f0efded7166070c7de84f9ff21a76b35ee0ec2ed",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-014",
+    "task_sha256": "9ae0d433b7b9bbe76d9dcc4dfd8e4bba8c5745b0b5e9184d5f33f2a5c06a3dad",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-015",
+    "task_sha256": "a88e34e210c59633ef8cf6ae296152841e8e80a5b4a68c49d963e2f9acf1acfa",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-016",
+    "task_sha256": "4ab9561d0b10c4f302a4c96b549e4358bdc59072dc1365d65ff8e87204c3993d",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-017",
+    "task_sha256": "87d4d73568c17ec8d779a06f8012f526d58ee36c5b2de9e7637b8ef6f3a88a6b",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-018",
+    "task_sha256": "37aa45814a961cc7f3dde8cb5ffe369a3bc4104c5f7c6cc8ecdd99454d4f7040",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-019",
+    "task_sha256": "def76ff201bbc494d9975cce07e7f59caf9d2f444326e32e6a697c6fbd7f52b0",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-020",
+    "task_sha256": "422e02ddfb605447d9b29bff7374d5919080023d6ab56cef4edc7fcc69b4fe50",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-021",
+    "task_sha256": "d35af39776c680640fa2b4782d52524cc4f6e745802031b6e0d0a28509ec845b",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-022",
+    "task_sha256": "f99d3710f0a2f6a48c2d2a5b29eb7a211aa20f890cd1e353a294903f815bdb60",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-023",
+    "task_sha256": "2e32dca70a680f822b1ce4b5e486d9ab55ccdef7482660109395abd9850301d6",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-024",
+    "task_sha256": "1c469a4122d5f40ed9f9fefbf88438f841dd5d475a2bdd64c9c6e7729dec22dc",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-025",
+    "task_sha256": "9690e1d2168b3f58cbeac8fb297722e3c4001c11ad35a85bdc1350c7c3bb1c62",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-026",
+    "task_sha256": "229d8f12edcbb8e459c7d69190e6c4148519faa1d16faabacc4b2975dca847b7",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-027",
+    "task_sha256": "1c336fb905cf63cf6c9ca44274d45c02d1b51c72eef5b4099c0f29a51a45da52",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-028",
+    "task_sha256": "951f50a8971b7fda682501ba75ac13db4912a28690127a77a2dea8e160cc53a1",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-029",
+    "task_sha256": "f89f6f61c0711e39afec39a31554c0a47281fd652ee1b5ca4d4e73024fe9e6d7",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-030",
+    "task_sha256": "e03e2a34de3eb57f47ba72b26674f53661c278607f3bd23af4b5c0c179fdcdb9",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-031",
+    "task_sha256": "a8b366adc6e56882a692eeec0bab75ba452a11a5796d15bff04ae7aa2ab96f66",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-032",
+    "task_sha256": "759622760a7707a8b21c1e3871dd38208ca6aa9fc2a7c0948d94709c1111e1a1",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-033",
+    "task_sha256": "d4d11cae1bde9149d399cd8dafbb1230c9119244b251d76daa95446717db984b",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-034",
+    "task_sha256": "ee727455a23903c1e43caa579fe9f5db8c1499ecb5b594153b849788cfaf8a4b",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-035",
+    "task_sha256": "6ae3ea83fb597601ded6b72368159a0fb12ba586827e2c6312033434c07619ac",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-036",
+    "task_sha256": "e1086c7d51f9329b9930c79fc767dbae53f4717fac03405c9e037c696f3ff5be",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-037",
+    "task_sha256": "828c27aa9414ca489de1ba2616e5805df0c9fe1b84be30f2ac3d5c4a1ee6bc9d",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-038",
+    "task_sha256": "afbe9a43cfc3ff2748443b5ceaa864175a0234f2c629f7314692eb96c26402ff",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-039",
+    "task_sha256": "56d0b09932960309d8c6c41bc83f18c5e5a31f7998e3c63fd9f364224793d023",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-040",
+    "task_sha256": "07420a3b062d85986cec12591b435e1de386170d31029cf861194ab5e17687bd",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-041",
+    "task_sha256": "b9228a269696dc1b1a09eeb6702d8fb2d85fcee7a9c6749d8bab6b9a4ecef6e0",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-042",
+    "task_sha256": "813f101e2a05a169c1a3a52dce8aefde00291132b662ce5cf2357d77caa64cfd",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-043",
+    "task_sha256": "2791fe5dbb47875097c2d960f4ec229cde2a45820b39b7ae1f9a089050aa39bc",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-044",
+    "task_sha256": "de3997ad40b1e8d6fda1e1425b5b6d5ad75e1c517b76173d4da3aaaa8a247251",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-045",
+    "task_sha256": "25dd334168445bd3e95c76ed8c69c56e7ab4346876e6179237e6d3b68eac1083",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-046",
+    "task_sha256": "6648db694840a57acea7cf14394c60de4c3f3e961019b47db2ca10ab81118e5b",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-047",
+    "task_sha256": "d97fcd92bf48998f5ae0240d6cf330f327b38305a4a79b9ffb00c4863066b907",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-048",
+    "task_sha256": "30f8925ffa19299cdb31a66773d2579417df556a9112e2eaff4896d150e730a7",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "code-049",
+    "task_sha256": "42814b6898b6443749031980d1ce5719e676c7fcba09981afcca9ec1d04beaf9",
+    "passed": true,
+    "checks": [
+      "reference passes grader"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-000",
+    "task_sha256": "8cf8f94b6622ceaf753f5185ca5bca76724603219a84841fdad45a67f3ceb638",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-001",
+    "task_sha256": "b29d577ed444209afa62ce517fee6fc896c5221fd2b04e498d4bc9785b8f156e",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-002",
+    "task_sha256": "8a0eb7c7246483c492fe9f1904a4a4ba4c0de1c3670826eac88060d2f1498b5e",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-003",
+    "task_sha256": "d0370b8af561d0e4bfc44d5b17363ab752077f8761f53e3d8335f4523fe1a951",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-004",
+    "task_sha256": "4b4f1e3be9bcbbdd78340cab7a1e5c2799bf6195eb1ef55dc6264ebddf7dfada",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-005",
+    "task_sha256": "83f160724b0968748ff787dba68119a837454e8db8f7dd572adb69e9067f9375",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "5 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-006",
+    "task_sha256": "152436a4a8657c70b14bf960bbd36a24c363898d0baaf102f69bc855ff02df57",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-007",
+    "task_sha256": "65328660ff7a3ac63121e36ffdbaa9fe1fdaacff9baedb7b9835c36c3cda353b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-008",
+    "task_sha256": "8892b949c75bac3608e8a417302d3ebb9922d2e4a17c0a2c7dc2e73b14f016d7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "7 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-009",
+    "task_sha256": "7f6657d873422d8fdf1f8235f72b832132e3ad4daa1693354d520e523b708a29",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "5 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-010",
+    "task_sha256": "e3806cece956bf2421036dc5ad3d8790be3d9a56ca7872c86f0e5d2e39aed8a4",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "5 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-011",
+    "task_sha256": "f5fa63bdba0b64b89a19ad02097a5cab66ae5d8519dbdba585c1dd56ffca9116",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-012",
+    "task_sha256": "0810c8a48bf85652cbe0331fb46d5b3ca3c436c441796e5ccb1c0f7bf80f1d3c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-013",
+    "task_sha256": "f9620451d78eb4c6d12bcb46f4f3ac576b8a9937e227130522a9f8949a7db6cd",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-014",
+    "task_sha256": "895b0d3a1aec993c78059574acb7daa5fd97b5d133856f0a00acbcdd650f48f2",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-015",
+    "task_sha256": "20ac85ab171e61707cc09a8b42d2d127b5f15078f3e8ad104e28445fa9ad83b8",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-016",
+    "task_sha256": "3e3b856750741e0af0ca2c73b96f10590a5a0bef45d7e82a3e453d69901854d3",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-017",
+    "task_sha256": "6f7438b4b36c0fe88d676f9b7f5a2607aa78caa76a4ca42dfe1ae1051bb72604",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-018",
+    "task_sha256": "099c2876c11aeb7a55499a3301e89b4304af0413364aecb1539fab07198ed5ee",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-019",
+    "task_sha256": "9be96ed95e31664a0886794ce1a5eb2b1382fb06fd21b874d5c01ac067e8eb75",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-020",
+    "task_sha256": "e0db8785bfd271f62db1ec1771fdbe4eac9ec435193e77c4a5469772ca361cae",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-021",
+    "task_sha256": "2be8915dd382d87531831cee446050722c0df75853b84a670bcba095de2fafcd",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-022",
+    "task_sha256": "1475c09cb459992d9193d8567c3df67e5e931f2ee6e0a72cf8f10af6eb9c46ee",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-023",
+    "task_sha256": "a21a245c473915b6ee869f443fc129976716a837f53b256d6030eaeb58e9de3d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-024",
+    "task_sha256": "9a674a90b0e4a1dba79cb5a47144199fa2dad062ea7bfd3f857539f975bcffe3",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "0 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-025",
+    "task_sha256": "87c26add6a66ac00a3af301d969b2cb6f6659b1880f57bcd32f7c061816c3b90",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "5 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-026",
+    "task_sha256": "44b1253646686204c07e93e0b8cb2cace71eb1139184cc21ca1b827467898e32",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "1 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-027",
+    "task_sha256": "a02999c401e6e6037040fcd794aac672c4c47c347b77c6cff39a25796bf47f65",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "1 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-028",
+    "task_sha256": "b8b3129d2541b736938ea57aced1ba0d0e1e54643f5c84710f65844547ea5177",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-029",
+    "task_sha256": "e627197ab5359a90d8bcfc5ee966c137691419f06c0797154bc95832b32047c7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-030",
+    "task_sha256": "f86210b89239a44cb29a9900dc1ae7e9d45b038ab0f4ecca48d8a09c40361592",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-031",
+    "task_sha256": "b8812a1d7a28e43da96640b7a3c864a427a4ebd3914bc31c278bb38821994b7f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-032",
+    "task_sha256": "2117fa18d1dd8c46f08689935efcc405a05e349d22bb6f44708baff3d9747723",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-033",
+    "task_sha256": "d60e43a33db7cafb8c9492d9ef0e1f6e28bef992ff86ec10063d0df81675ba0d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-034",
+    "task_sha256": "1533672a2099e26e6baef0df21fb04c4d17327f068a00b649f797ee7a23ab3f6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-035",
+    "task_sha256": "c9524f231c69d73b5894795e2e8153bd4fc1eb88db137744a2a524605942a278",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-036",
+    "task_sha256": "d5bbd6c2c5c08ba25e9c4c554c84eeaa5bde375616af17a359fea2abf242c28d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-037",
+    "task_sha256": "feb856becbb865d683d2423c5aa64310cafa0780dc9a40b35092d0fc8938cb66",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-038",
+    "task_sha256": "ebba6170113267e20978d3c15d82c46f8462c4a2d34e8049b800ba5a18118d1a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "5 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-039",
+    "task_sha256": "ec4a7494721e137fd9684d67888272e0d83e0bedbc3b403fc820152262332802",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "6 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-040",
+    "task_sha256": "e6e7389de83241c0a45555b6bb1e4f582f72f34a84c0ab91ec6ef1c8d7ef552a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-041",
+    "task_sha256": "ed25d2cc4b74fddc320af742112dd9979397553eb566d9ef2cc393af19211f6b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-042",
+    "task_sha256": "853181c6d0eb7ebf15d0e66835610ca8b984e5e934a4c7790635bf471f63fcb8",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-043",
+    "task_sha256": "2e2003b79b39db9e7eabe9bb5ea560ff77165306a1f55edfbb97985bd1151887",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-044",
+    "task_sha256": "9322a953b3a1d4b11a9bc9efc35fcf925a4e5f1e41fea4f907b4c50510fe7b40",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-045",
+    "task_sha256": "6805892221b293a087c993f3fd1b586cc43896df8b8484a284710d885e6e62e6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "4 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-046",
+    "task_sha256": "36ed7d03ac467c4262ef716efe5605b5596befb1ee6d9cf1a358b98b38143f64",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "1 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-047",
+    "task_sha256": "d37a731a0f637d66239f41a13f01821a04e464c09d9ec22c46ce0afbbd0f18dd",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "6 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-048",
+    "task_sha256": "ea20e53c810ba8a06192f6ce6b30cb2a686bed15853fc7f3ab4c8f896986db34",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "2 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "math-049",
+    "task_sha256": "9f2c54e014105046f62a618d4b440ea514d1254e561cdabd533330c2259606c3",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "3 upstream arithmetic annotations evaluated"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-000",
+    "task_sha256": "e24df533a945d33e977407eba5488b57601197a11d2ca3dc8265a18952cc8526",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-001",
+    "task_sha256": "78ca067c969614b14879a0158b092f88ca33f468f5b37720676be23792c98180",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-002",
+    "task_sha256": "c6dd0fe2c2530e6d6c29600fafd2dfb3bb9c14b4cc083141e902c891d12d844f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-003",
+    "task_sha256": "c42e19759774b265001470e777650fb1d90632f9338df16cbe582ad3452c1b8d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-004",
+    "task_sha256": "b82fdc19ae984f6a972ded7da2930360015536fb2c74da272817b9810620c067",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-005",
+    "task_sha256": "eb774c59bcfc5bc26a2ea8ad0b4f42cd20e2f3e332d8179cfd191e3b40a7dca6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-006",
+    "task_sha256": "f086d94126b137937b334b3d374866ddcc19edefb837d43f3045397bca2a20ba",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-007",
+    "task_sha256": "f4afa5b01a55f9f82f36b67eabf90858b7ad63ab77f175d638f694f39d14ac05",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-008",
+    "task_sha256": "1f51673aa770eca394df02c11eec295aa8bced3da7b52991c6213535bbeca556",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-009",
+    "task_sha256": "d1e72faa318cd6bd1f26266540ae00b2026a631cea5a6fc06bdc5a50cd11ac25",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-010",
+    "task_sha256": "6de92a2fdccf84667cc28dcee891ec398e2abb0806d300ce0872478173ffc919",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-011",
+    "task_sha256": "50c6d073bc4040b7d526815e05197a5247f420e6e9ecb68e78cfc5f9240c7b3a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-012",
+    "task_sha256": "231bd5ee9c9e4097c761debe48fdc34657751807c846c18831256bde3e0969d4",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-013",
+    "task_sha256": "4143c089f9211a98ea9435e7b534efa2e9e31f8a2f86baa2aa1dcc164a3ecaec",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-014",
+    "task_sha256": "542c2a74d44deedc63e243b564ed83b75395035ecdf0a0af2e5f14a732ba6b5c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-015",
+    "task_sha256": "562601ae8f3c0506d32fb27abdec14ed546f3bd4d3e5e5c53241e883c7c9a20d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-016",
+    "task_sha256": "bd1d8ebbee3a2d89cfb91f4d4fe441278a55f63bb6c337215041d0ec62695750",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-017",
+    "task_sha256": "2490006e41718e1999b2d334afafb96fd1ce73734704057cf62c562588987695",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-018",
+    "task_sha256": "5aa85bfc128f329216b8080de9177f759f446382055bd4b7eb9846cb88c3326d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-019",
+    "task_sha256": "16971601c12ad41f148b918585dc426a9a4f15e0c2f3863e9f3ce6f5a6428c0a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-020",
+    "task_sha256": "47629fa74e9ef958d69aafadd03e9f6b2ec823ae6adf27a7fc1c6a54cbb0d380",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-021",
+    "task_sha256": "6e4e70b7cb95b174054b230a852895cb5967e7daba45837b59a394608da536cd",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-022",
+    "task_sha256": "bca5a3ddeb2bdd356b45d08e45476aa154e5a999138054b5b6aac08c66c204c3",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-023",
+    "task_sha256": "7738526d715b5aa15cb7bf32762f3d09b03486ca15e3b3b525b0b48b6abbb2e8",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-024",
+    "task_sha256": "c80616c8e2b168061b0dcd02d42c9d27cde1b19f3f89c0df910f551ec62bc534",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-025",
+    "task_sha256": "283e8ff9ba78da585aad6027fdc9a0ff02b35980b83964289ba700477c046725",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-026",
+    "task_sha256": "2da93d022db33026915b7578f74340f9ad4c368d87f99311667f4afd144b6216",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-027",
+    "task_sha256": "2ceef279036f93e26ff3a0dcf61d289dc2f419185937c4bc480cd05cc2f829d0",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-028",
+    "task_sha256": "8f15056d371dcc331875bf918187f16954b25746efafdd44e4a8651980324f01",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-029",
+    "task_sha256": "bc315e30148bea1318823bd4e57972ae6cae160f2afb16ca490551cdbbc0bc18",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-030",
+    "task_sha256": "c1e0f519b5417e95c50ecc5fcb984e993a661708be8f3e829e46534574c60819",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-031",
+    "task_sha256": "f7683a38520eef8f06761a31d56a686eb71c6c685c3bbf0a3b4e2c1f5f91d8f9",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-032",
+    "task_sha256": "63bd7c8bbe5f96547452debe5a79c0d9241ae66dfa2f3be65f7991f0eb5ac555",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-033",
+    "task_sha256": "9be95098d11ecf9871241062ae7b032b2b0ffe3b1386f0e974f15c367c0f13ae",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-034",
+    "task_sha256": "f56151ce7ce14f6f5eed5c19484f7f499e07344293789892519f83ec2a03b226",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-035",
+    "task_sha256": "4990ad650b4d0f5d8161716ca25592f961caf5ea3eea62cd2862a11c9f3e833f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-036",
+    "task_sha256": "60216129b7c474a8082ea6f2bba4aebcbf2dae29e94cd3ae9a12f8c2cb913ef7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-037",
+    "task_sha256": "d616c0ee9e2cb6465edbb4251d8ded9f648e7ab3b6d30d9ab46ec0034f32c3f6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-038",
+    "task_sha256": "8706ac34cf04881e53a9a6b912ab7d2432f2f69729407de336aaf1a172e950d9",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-039",
+    "task_sha256": "a1d4de9f4ddec7fa770a86bda6f5e5ed985e66d2d43133afbb6b0ae6ba2cdcd1",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-040",
+    "task_sha256": "67cb2bee9ecccd50829c678f4f07188b0c1ed82822b11bef3203c992926cd47a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-041",
+    "task_sha256": "1fb080a4e1d7862e5303523fe3b90d850d93313cede66ff2bf5afdef394d036d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-042",
+    "task_sha256": "2c4d2b648084c32f78bb070c0d39d62eb280b5be1b17a865cc89835907ecf62c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-043",
+    "task_sha256": "9c5903646f7bb1239d72fc0c34a535d14213c718b09322d60c88b83d163fc87b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-044",
+    "task_sha256": "0cd05e88064eea9cdd77fd3cb3328f9c199906bd80f2f8484f1712c0a6176f0f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-045",
+    "task_sha256": "ce9ee51755e915c63f01d0b1ef930944159cf9e8aaa6a8dbedc85245b3ce0d34",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-046",
+    "task_sha256": "421671c314c368e77492803a91a1ecd48836393d95d4580b35b9796516976ca6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-047",
+    "task_sha256": "27e8469706c0532e87845616a461d9b1cf16c2a4f64570e46d2f582123f7c6ea",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-048",
+    "task_sha256": "9d46df1dd32f7dd3bd61a1b0ff6d5751902d62e253b585835a1fd01fe3ff0409",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "causal-049",
+    "task_sha256": "63ee252fdafde072e34b33bd29ac2675322962ae8e3415d8f0120342f66c2299",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "label matches upstream human annotation; not an independent semantic proof"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-000",
+    "task_sha256": "1c3849eea0701e5cb70d270e05869d7a87b3eb69d14f991c251e0d6741bb2d9f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-001",
+    "task_sha256": "1c08c83844afe5d7ba5298895ed1a446e0c13b3d139fb793c1e7af39971dd8b3",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-002",
+    "task_sha256": "5d6d5b5cad7d0c89ca173d3d9326a8e66d14922f3e86557ceb65fbaeded1c467",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-003",
+    "task_sha256": "3d3af21ce024d5ad4ed4693692ab23f5765b1ada41d1065110eaf41a433d1026",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-004",
+    "task_sha256": "687899f23ceab46167d817ce6612867fd595db456a9d0e69785ff33ba817b65b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-005",
+    "task_sha256": "0ed50839fa7c71d45e8d71dc97ddfbcdfe445d83036597e084d9030e60262d54",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-006",
+    "task_sha256": "f011b906425bde18a21c477682a9b104d0c84ffd84811b1c1953fc53fc35f00b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-007",
+    "task_sha256": "af87bda5d1fbb217dc739ef6f50b0d302e160c46fe706f9e08510cb2918b5f72",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-008",
+    "task_sha256": "c7a4d8e067dac20bff4384639a70918f07f6665dea846d02a16d71a0bfbf4e6b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-009",
+    "task_sha256": "396ef1660a59985891c9e459350fb74447df8d99458e0d2b59226625c7075ef1",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-010",
+    "task_sha256": "f107117568868b96fb1da0bbbf98776e7af7a0d7afd141ea4d83b528296e8dc2",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-011",
+    "task_sha256": "5ce1262941d160cd56bd473efcfeddb221a97df3ae43eb75117a0ba393876828",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-012",
+    "task_sha256": "d7e6e6002d7756806ad09726042e77b8e1f9c0678f89b2b5b665dea89908d649",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-013",
+    "task_sha256": "5958471f5249a4b97002e3a89edff51bf01e04e20af0bd55cd2c19d28bfb418f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-014",
+    "task_sha256": "4ce31c63a337b305c667ef8b72a029fd86ba7258888fb94e4273fdf6d502f7a7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-015",
+    "task_sha256": "369a6071941f3303d0d4856c5d3a2f2068bd3746e8b4f4728b8a4a3d0767ccda",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-016",
+    "task_sha256": "38292d5af55ec9327d9a7838f4d949793d9327fbd4a1ac0521c80974609ef378",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-017",
+    "task_sha256": "aa0e237cfea1d6640876a033d77173e144c50b1d095dd524119b28fa28070378",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-018",
+    "task_sha256": "fabd158195f035e1233d9cd7d2ee5127d1a4885652643a479879bc78b1be43a4",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-019",
+    "task_sha256": "3cdb732174cdeb2db295b808f5055d47dfde0e54ebebb30d1db9fae059f9b38c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-020",
+    "task_sha256": "fcb83bc3bdb3b68a4a117a00343832cd6fa5b1bd4ed3cfc1373fa0275b057151",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-021",
+    "task_sha256": "a355fbe046279cc77eb90e6f36c627885ce2633683c9e00d5de409c4c6ef13e4",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-022",
+    "task_sha256": "eb178b385df82ad6df6663da284ccaeb80591c61ea70741938c3785d32c72c61",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-023",
+    "task_sha256": "d2e5c1b94614503c16fd4c877ba0405b2c302fc438a67eeb128630b29c5701b9",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-024",
+    "task_sha256": "8773164a04aa37eec187df6df06452f8ecb36965d6edbc17aa8508dde1a7f29d",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-025",
+    "task_sha256": "fabd525e7dea79b14f7157b7486836591bd93d2b1279ac77995fbeca5dbbce97",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-026",
+    "task_sha256": "d5eb4c9df4c78bfec63343615a604ca3b12069132df02c3a7c2c9c9314c9006f",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-027",
+    "task_sha256": "f0c36aa3120b95514ec4c5e8032c44131ace2ab22f1a587a311ec3ac60a6c99b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-028",
+    "task_sha256": "1385cbf234134939baaf7f15d229d685b27a8742ec3556313b11d000b0674123",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-029",
+    "task_sha256": "75b43357f8be69125e640150d837799c42b01745589c43727e0b0cc94e3abfdb",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-030",
+    "task_sha256": "780687cdc6235e59094e710e49d088ca8d5bc2cb6f0fc30f90a22a6beee97b1c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-031",
+    "task_sha256": "382b7726c2dbe5a781d5c3b836854d5bc115970f4671a1e2061e3dca46b604ef",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-032",
+    "task_sha256": "c82959292a59f8f5a4752ad1556248b8519e6be3155a3bc79f0ba44accf1cf8b",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-033",
+    "task_sha256": "44063c766b6951d1e11e6577a030434dd1c3bfc18d37dbede285d584acb2e36e",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-034",
+    "task_sha256": "c5c615047a9f0dd8f711ffb02bfb1c38927b94873ad18d2cdbb020cd4c627ae1",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-035",
+    "task_sha256": "82cb6caa38c9b71427016a48dc03df04a0ce813fc4861010b4c8058b54a8e01a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-036",
+    "task_sha256": "7038d2a0d99ef4fa12bed3538acafbc0d778ca97f4f97d9feccdf3ca0da9e688",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-037",
+    "task_sha256": "58e8f8c05df061a57eb3a633d9f1c73237a6de2a3f9b5913a6dff430ac7f6d95",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-038",
+    "task_sha256": "3ec74c527896a7b405702293b7b7d76d64a9d0664c64084881469d902e1105e7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-039",
+    "task_sha256": "66cd3f3b958156426cc57fdb607a80c21129cd834ace1c66f5f588e3fd8aa85c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-040",
+    "task_sha256": "4cfa13d75c55881d2f2e2a77baeb3bffb97a326cc1a708a1c99fcc6f9547e8b6",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-041",
+    "task_sha256": "a3d94d31de8764d5d8b2901396afe207fff59026377acbe440de75b86a0a3a6a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-042",
+    "task_sha256": "7e862bb40f3a7705be7407524d2210fc3c498a9d8bfe8fe502c780e704781126",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-043",
+    "task_sha256": "a965b0fbabf4b171cb9a7ccfa08c23c62d54822e3db1e6eab196812042bf0eb4",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-044",
+    "task_sha256": "e9afe9faa9fafb002faae2e2f730d05abf4e75096f9fc57844a4a28a6878356c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-045",
+    "task_sha256": "e79380d8672aaa72db6b5502ca50f3004f0ca264f5cb36b2cfb76d9218069b3a",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-046",
+    "task_sha256": "6865805ec8d89acfd206acbf11c99711f212bb9d55f145555f9e92d1b7812865",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-047",
+    "task_sha256": "bb22eedc93f336fa095b60801abb954be59ec94ed727bebd50ddd336ee11c2fa",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-048",
+    "task_sha256": "60047706347b8f3ef39c698ae5cf3a78a87509fec1d826b451b870c8773e31f7",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  },
+  {
+    "task_id": "reading-049",
+    "task_sha256": "2b4544a6d7a8e1cdc3eb8ecadb5c6d1e7213a30a3b8eea9f6f3c512063048a1c",
+    "passed": true,
+    "checks": [
+      "reference passes grader",
+      "accepted answers occur in source context"
+    ],
+    "error": null
+  }
+]

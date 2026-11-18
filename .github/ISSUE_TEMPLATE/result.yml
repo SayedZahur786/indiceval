@@ -1,0 +1,39 @@
+name: Model result submission
+description: Submit a reproducible, complete model run for review
+title: "Result: "
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Model and immutable version
+    validations:
+      required: true
+  - type: input
+    id: artifacts
+    attributes:
+      label: Public artifact URL
+      description: Link to run.json, samples.jsonl and report.json. Do not attach credentials.
+    validations:
+      required: true
+  - type: input
+    id: commit
+    attributes:
+      label: Runner commit and dataset SHA-256
+    validations:
+      required: true
+  - type: textarea
+    id: disclosure
+    attributes:
+      label: Evaluation and contamination disclosure
+      description: Sampling, provider, prices, tools, prompt changes, known training exposure, and local validation output.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Publication
+      options:
+        - label: I am authorized to publish these artifacts and have removed secrets and personal data.
+          required: true
+        - label: This is a real model run, not a reference-answer fixture.
+          required: true

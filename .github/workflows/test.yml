@@ -1,0 +1,15 @@
+name: Test and validate
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --frozen
+      - run: docker pull python:3.12-slim
+      - run: uv run pytest -q
+      - run: uv run python scripts/verify_answers.py
+      - run: uv run python scripts/build_pages.py && uv run python scripts/build_site.py

@@ -1,0 +1,17 @@
+name: Task correction or language review
+description: Report a problem or contribute an explicit human review
+title: "Task review: "
+body:
+  - type: input
+    id: task
+    attributes:
+      label: Task ID and SHA-256
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and proposed correction
+      description: Include source, reasoning, language competence if reviewing, and whether you consent to publication of your review.
+    validations:
+      required: true
