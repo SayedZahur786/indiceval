@@ -60,7 +60,8 @@ fetch('/data/leaderboard.json').then(r=>r.json()).then(data=>{
  if(data.length)$('empty-board').hidden=true;
  for(const row of data){
   const tr=el('tr');
-  for(const value of [row.model,(row.accuracy*100).toFixed(1)+'%',(row.pass_at_k['1']*100).toFixed(1)+'%',row.cost_per_task_usd===null?'Unknown':'$'+row.cost_per_task_usd.toFixed(5),row.latency_p50_s.toFixed(2)+' s',row.score_variance.toFixed(6)])tr.append(el('td',value));
+  const modelCell=el('td'),link=el('a',row.model);link.href=row.evidence_url;modelCell.append(link);tr.append(modelCell);
+  for(const value of [(row.accuracy*100).toFixed(1)+'%',(row.pass_at_k['1']*100).toFixed(1)+'%',row.cost_per_task_usd===null?'Unknown':'$'+row.cost_per_task_usd.toFixed(5),row.latency_p50_s.toFixed(2)+' s',row.score_variance.toFixed(6)])tr.append(el('td',value));
   $('ranking').append(tr);
  }
 }).catch(()=>{$('submission-count').textContent='Results unavailable'});

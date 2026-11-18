@@ -19,7 +19,7 @@ def main():
     evaluate.add_argument("--output-price",type=float)
     evaluate.add_argument("--key-env",default="INDICEVAL_API_KEY")
     evaluate.add_argument("--limit",type=int)
-    bundle=subs.add_parser("validate-run");bundle.add_argument("directory");bundle.add_argument("--submission",action="store_true");bundle.add_argument("--data",default=str(DEFAULT_DATA))
+    bundle=subs.add_parser("validate-run");bundle.add_argument("directory");bundle.add_argument("--submission",action="store_true");bundle.add_argument("--regrade",action="store_true");bundle.add_argument("--data",default=str(DEFAULT_DATA))
     args=vars(parser.parse_args());command=args.pop("command")
     try:
         if command=="validate-data": result={"valid_tasks":len(load_tasks(args["data"]))}

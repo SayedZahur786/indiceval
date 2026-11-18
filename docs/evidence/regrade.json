@@ -1,0 +1,59 @@
+{
+  "tasks": 200,
+  "requests": 400,
+  "repeats": 2,
+  "samples_per_task": 1,
+  "accuracy": 1,
+  "repeat_accuracy": [
+    1,
+    1
+  ],
+  "score_variance": 0,
+  "score_range": 0,
+  "pass_at_k": {
+    "1": 1.0
+  },
+  "latency_mean_s": 0.0012958971847547218,
+  "latency_p50_s": 0.0008984789892565459,
+  "latency_p95_s": 0.0026952920015901327,
+  "cost_usd": null,
+  "cost_per_task_usd": null,
+  "cost_coverage": 0.0,
+  "errors": 0,
+  "by_type": {
+    "causal": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "code": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "math": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "reading": {
+      "tasks": 50,
+      "accuracy": 1
+    }
+  },
+  "by_language": {
+    "bn": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "hi": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "hi-Latn": {
+      "tasks": 50,
+      "accuracy": 1
+    },
+    "ta": {
+      "tasks": 50,
+      "accuracy": 1
+    }
+  }
+}

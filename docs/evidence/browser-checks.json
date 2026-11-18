@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-19",
+  "local_url": "http://localhost:8765",
+  "public_url": "https://indiceval.vercel.app",
+  "checks": [
+    {"check":"Task type filter: math", "result":"50 of 200 tasks"},
+    {"check":"Search code-003", "result":"1 of 200 tasks"},
+    {"check":"Pagination", "result":"Page 2 of 34, code-006 through code-011"},
+    {"check":"Answer reveal", "result":"math-000 answer 18 and arithmetic rationale shown"},
+    {"check":"Local report file", "result":"200 tasks, 2 repetitions, zero variance, unknown cost"},
+    {"check":"Mobile width 390px", "result":"document scrollWidth and clientWidth both 390"},
+    {"check":"Public Bengali filter and details", "result":"50 tasks; reading-000 source and CC-BY-SA-4.0 displayed"}
+  ],
+  "limitations":["Manual browser verification; not an automated browser regression suite"]
+}

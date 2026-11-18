@@ -24,7 +24,7 @@ def run(*, model, base_url, output, data=DEFAULT_DATA, repeats=2, samples=1, ks=
         temperature=0.0, seed=42, timeout=60, max_tokens=2048, input_price=None,
         output_price=None, key_env="INDICEVAL_API_KEY", kind="model", limit=None):
     base_url=validate_url(base_url)
-    if not model.strip() or repeats<1 or samples<1 or timeout<=0 or max_tokens<1:
+    if not model.strip() or repeats<1 or samples<1 or (not math.isfinite(timeout) or timeout<=0) or max_tokens<1:
         raise ValueError("Invalid run configuration")
     if not math.isfinite(temperature) or not 0<=temperature<=2:
         raise ValueError("Temperature must be finite and between 0 and 2")
@@ -52,7 +52,7 @@ def run(*, model, base_url, output, data=DEFAULT_DATA, repeats=2, samples=1, ks=
         "task_ids":[t["id"] for t in tasks],"repeats":repeats,"samples":samples,"ks":list(ks),
         "temperature":temperature,"seed":seed,"max_tokens":max_tokens,"timeout_s":timeout,
         "input_price_per_million":input_price,"output_price_per_million":output_price,
-        "git_commit":commit,"python":platform.python_version(),"sandbox_image":image}
+        "git_commit":commit,"working_tree_dirty":bool(subprocess.check_output(["git","status","--porcelain"],text=True)),"python":platform.python_version(),"sandbox_image":image}
     (target/"run.json").write_text(json.dumps(metadata,indent=2)+"\n")
     headers={}
     if os.environ.get(key_env): headers["Authorization"]="Bearer "+os.environ[key_env]
@@ -70,6 +70,7 @@ def run(*, model, base_url, output, data=DEFAULT_DATA, repeats=2, samples=1, ks=
                         content=body["choices"][0]["message"]["content"]
                         if not isinstance(content,str): raise ValueError("Non-text output")
                         usage=body.get("usage")
+                        if not isinstance(usage,dict): usage=None
                     except (httpx.HTTPError,ValueError,KeyError,IndexError,TypeError) as exc:
                         error=type(exc).__name__
                     latency=time.perf_counter()-start
@@ -89,7 +90,7 @@ def run(*, model, base_url, output, data=DEFAULT_DATA, repeats=2, samples=1, ks=
     (target/"report.json").write_text(json.dumps(report,indent=2)+"\n")
     return report
 
-def validate_bundle(directory,data=DEFAULT_DATA,submission=False):
+def validate_bundle(directory,data=DEFAULT_DATA,submission=False,regrade=False):
     p=Path(directory);metadata=json.loads((p/"run.json").read_text())
     tasks=load_tasks(data)
     if metadata["dataset_sha256"]!=hashlib.sha256(Path(data).read_bytes()).hexdigest():
@@ -104,4 +105,21 @@ def validate_bundle(directory,data=DEFAULT_DATA,submission=False):
         if metadata["kind"]!="model": raise ValueError("Diagnostic fixtures cannot rank")
         if len(selected)!=len(tasks): raise ValueError("Full dataset required")
         if metadata["repeats"]<2: raise ValueError("At least two repetitions required")
+    if regrade or submission:
+        by_id={t["id"]:t for t in selected}
+        for sample in records:
+            if sample["error"] in {"HTTPStatusError","ConnectError","ReadTimeout","ConnectTimeout","RemoteProtocolError","ValueError","KeyError","IndexError","TypeError"}:
+                if sample["passed"]: raise ValueError("Request failures cannot pass")
+                continue
+            passed,_=grade(by_id[sample["task_id"]],sample["output"])
+            if passed!=sample["passed"]: raise ValueError("Stored grade does not match output")
+        for sample in records:
+            expected_cost=None
+            usage=sample.get("usage")
+            ip,op=metadata.get("input_price_per_million"),metadata.get("output_price_per_million")
+            if isinstance(usage,dict) and ip is not None and op is not None:
+                p,c=usage.get("prompt_tokens"),usage.get("completion_tokens")
+                if type(p) is int and type(c) is int and p>=0 and c>=0:
+                    expected_cost=(p*ip+c*op)/1_000_000
+            if sample["cost_usd"]!=expected_cost: raise ValueError("Stored cost does not match usage/prices")
     return report

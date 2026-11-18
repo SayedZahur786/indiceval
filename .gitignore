@@ -9,3 +9,5 @@ node_modules/
 work/
 *.pyc
 .DS_Store
+.vercel
+.env*

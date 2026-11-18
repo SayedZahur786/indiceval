@@ -47,3 +47,17 @@ def test_request_failures_count(tmp_path):
         assert r["accuracy"]==0 and r["errors"]==2
         assert "private provider detail" not in (tmp_path/"out/samples.jsonl").read_text()
     finally:s.shutdown();s.server_close()
+
+def test_regrade_catches_forged_pass(tmp_path):
+    from indiceval.core import summarize
+    import hashlib
+    task=next(t for t in load_tasks() if t["type"]=="math")
+    dataset=tmp_path/"tasks.jsonl";dataset.write_text(json.dumps(task))
+    out=tmp_path/"forged";out.mkdir()
+    meta={"dataset_sha256":hashlib.sha256(dataset.read_bytes()).hexdigest(),"task_ids":[task["id"]],"repeats":2,"samples":1,"ks":[1],"kind":"model"}
+    rows=[{"task_id":task["id"],"repeat":r,"sample":0,"passed":True,"output":"999999","error":None,"latency_s":1,"cost_usd":None} for r in range(2)]
+    (out/"run.json").write_text(json.dumps(meta))
+    (out/"samples.jsonl").write_text("".join(json.dumps(r)+"\n" for r in rows))
+    (out/"report.json").write_text(json.dumps(summarize([task],rows,2,1)))
+    with pytest.raises(ValueError,match="Stored grade"):
+        validate_bundle(out,data=dataset,submission=True)
