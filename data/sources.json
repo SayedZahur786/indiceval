@@ -1,0 +1,57 @@
+{
+  "humaneval": {
+    "repo": "openai/human-eval",
+    "branch": "master",
+    "path": "data/HumanEval.jsonl.gz",
+    "file": "humaneval.jsonl",
+    "license": "MIT",
+    "license_path": "LICENSE",
+    "review": "English problems human-written; new Hinglish adaptations are not human-reviewed.",
+    "authors": "Mark Chen et al.; OpenAI",
+    "paper": "https://arxiv.org/abs/2107.03374",
+    "revision": "b9453e8f1865df0a0057a1383767caa400acfbcf",
+    "sha256": "1d49078ba3e2b196b9344535bef34a43021f038fad9561d6ee7c53450609a6a2",
+    "url": "https://github.com/openai/human-eval/blob/b9453e8f1865df0a0057a1383767caa400acfbcf/data/HumanEval.jsonl.gz",
+    "consent": "Published research dataset reused under its stated licence; no new participant collection. Individual consent records are not supplied upstream."
+  },
+  "xcopa": {
+    "repo": "cambridgeltl/xcopa",
+    "branch": "master",
+    "path": "data/ta/test.ta.jsonl",
+    "file": "causal_ta.jsonl",
+    "license": "CC-BY-4.0",
+    "license_path": "LICENSE.md",
+    "review": "Upstream translated and reannotated by human annotators; individual review identities not published.",
+    "authors": "Edoardo M. Ponti et al.",
+    "paper": "https://aclanthology.org/2020.emnlp-main.185/",
+    "revision": "e2e9d7f105a758ee869cd13e0fe251ef93a29840",
+    "sha256": "ae282423e45f0aed4174cea7594d200214a66b9c721b60f74a21fb2d5adeaf45",
+    "url": "https://github.com/cambridgeltl/xcopa/blob/e2e9d7f105a758ee869cd13e0fe251ef93a29840/data/ta/test.ta.jsonl",
+    "consent": "Published research dataset reused under its stated licence; no new participant collection. Individual consent records are not supplied upstream."
+  },
+  "xquad-in": {
+    "repo": "google-research-datasets/indic-gen-bench",
+    "branch": "main",
+    "path": "xquad_in/xquad_bn_test.json",
+    "file": "qa_bn.json",
+    "license": "CC-BY-SA-4.0",
+    "license_path": "LICENSE-CC-BY-SA4.0",
+    "review": "Upstream professional human translations; individual task reviewer identities not published.",
+    "authors": "Harman Singh, Nitish Gupta, Shikhar Bharadwaj, Dinesh Tewari, Partha Talukdar; XQuAD/SQuAD source authors",
+    "paper": "https://aclanthology.org/2024.acl-long.595/",
+    "revision": "c96a10d90ed9b38cc2108cac6f515a1b8bfdc230",
+    "sha256": "c5dfd8b6218732387f29483da4528ac082f2a137cbb46c9efa74ba7740731294",
+    "url": "https://github.com/google-research-datasets/indic-gen-bench/blob/c96a10d90ed9b38cc2108cac6f515a1b8bfdc230/xquad_in/xquad_bn_test.json",
+    "consent": "Published research dataset reused under its stated licence; no new participant collection. Individual consent records are not supplied upstream."
+  },
+  "gsm8k-hi": {
+    "revision": "f221a2ae94dc7fd7e653f893b571e3e345822fc4",
+    "file": "math_hi.jsonl",
+    "sha256": "2afbdef4ce2ea1523ca3f20f9c1abf78c96b120751f7d697fe9f8c8c89d698ea",
+    "url": "https://huggingface.co/datasets/nvidia/GSM8K-Hi/resolve/f221a2ae94dc7fd7e653f893b571e3e345822fc4/test.jsonl",
+    "license": "CC-BY-4.0",
+    "review": "Dataset card explicitly states human review and correction of translated samples.",
+    "authors": "NVIDIA Corporation; original GSM8K by Karl Cobbe et al.",
+    "consent": "Published fictional math problems under CC BY 4.0; no new participant collection. Individual annotator consent records not supplied."
+  }
+}
