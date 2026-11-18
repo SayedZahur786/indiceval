@@ -3,6 +3,7 @@
 **Decision: public research preview deployed; full research-release gate not met.**
 
 Public site: https://indiceval.vercel.app  
+Preview: https://indiceval-50e3rys9g-braveeminent-gmailcoms-projects.vercel.app  
 Repository: https://github.com/SayedZahur786/indiceval  
 Source folder: /Users/sayedzahur/Desktop/IndicEval
 

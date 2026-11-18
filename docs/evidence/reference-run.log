@@ -15,9 +15,9 @@ Repetition 2/2 complete
   "pass_at_k": {
     "1": 1.0
   },
-  "latency_mean_s": 0.0012958971847547218,
-  "latency_p50_s": 0.0008984789892565459,
-  "latency_p95_s": 0.0026952920015901327,
+  "latency_mean_s": 0.0008221096015768126,
+  "latency_p50_s": 0.0004628125170711428,
+  "latency_p95_s": 0.001964916998986155,
   "cost_usd": null,
   "cost_per_task_usd": null,
   "cost_coverage": 0.0,

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "dc0627c8f40743ce9b4fe50638e8e58b",
+  "id": "bd534194eb07427083dfb76b5ed6f940",
   "kind": "fixture",
   "model": "reference-answer-fixture (not a model)",
-  "endpoint": "http://127.0.0.1:56533/v1",
-  "created_at": "2026-11-18T21:17:22.773314+00:00",
+  "endpoint": "http://127.0.0.1:59863/v1",
+  "created_at": "2026-11-18T21:26:26.826417+00:00",
   "dataset_sha256": "ee5e80367a33043695b14eca0f6fee56ab27d0f39fc06fec949c948681e85e6c",
   "task_ids": [
     "code-000",
@@ -219,7 +219,8 @@
   "timeout_s": 60,
   "input_price_per_million": null,
   "output_price_per_million": null,
-  "git_commit": "ec3fd19f1b5ee046a9434c14cceff20f4429db3b",
+  "git_commit": "a2d57f114a375288d42c7d4c7fe255723e708080",
+  "working_tree_dirty": false,
   "python": "3.14.6",
   "sandbox_image": "sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b"
 }
