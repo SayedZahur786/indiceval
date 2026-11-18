@@ -60,5 +60,11 @@
       "path": "/this-page-does-not-exist",
       "status": 404
     }
-  ]
+  ],
+  "preview": {
+    "url": "https://indiceval-50e3rys9g-braveeminent-gmailcoms-projects.vercel.app",
+    "access": "Vercel deployment protection; authenticated CLI smoke test",
+    "manifest_count": 200,
+    "methodology_http_status": 200
+  }
 }
