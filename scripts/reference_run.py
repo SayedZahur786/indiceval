@@ -1,10 +1,13 @@
 """End-to-end protocol diagnostic, NOT a model evaluation."""
-import json,threading
+import argparse,json,threading
 from http.server import BaseHTTPRequestHandler,ThreadingHTTPServer
 from pathlib import Path
 from indiceval.core import load_tasks
 from indiceval.runner import run,validate_bundle
 ROOT=Path(__file__).resolve().parents[1]
+parser=argparse.ArgumentParser()
+parser.add_argument('--output',default=str(ROOT/'docs/evidence/reference-run'))
+args=parser.parse_args()
 answers={t['prompt']:t['answer'] for t in load_tasks()}
 class ReferenceAPI(BaseHTTPRequestHandler):
     def do_POST(self):
@@ -18,7 +21,7 @@ class ReferenceAPI(BaseHTTPRequestHandler):
 server=ThreadingHTTPServer(('127.0.0.1',0),ReferenceAPI)
 threading.Thread(target=server.serve_forever,daemon=True).start()
 try:
-    directory=ROOT/'docs/evidence/reference-run'
+    directory=Path(args.output)
     report=run(model='reference-answer-fixture (not a model)',base_url=f'http://127.0.0.1:{server.server_port}/v1',output=directory,kind='fixture',repeats=2)
     validate_bundle(directory)
     print(json.dumps(report,indent=2))

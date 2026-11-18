@@ -34,6 +34,10 @@ def main():
         sources['gsm8k-hi']={'revision':sha,'file':'math_hi.jsonl','sha256':hashlib.sha256(raw).hexdigest(),'url':base+'test.jsonl','license':'CC-BY-4.0','review':'Dataset card explicitly states human review and correction of translated samples.','authors':'NVIDIA Corporation; original GSM8K by Karl Cobbe et al.','consent':'Published fictional math problems under CC BY 4.0; no new participant collection. Individual annotator consent records not supplied.'}
         (licenses/'gsm8k-hi.txt').write_bytes((licenses/'xcopa.txt').read_bytes())
         write_json(ROOT/'data/sources.json',sources)
+    for source in sources.values():
+        raw=(upstream/source['file']).read_bytes()
+        if hashlib.sha256(raw).hexdigest()!=source['sha256']:
+            raise ValueError('Pinned source hash mismatch: '+source['file'])
     rows=lambda f:[json.loads(x) for x in (upstream/f).read_text().splitlines()]
     tasks=[]
     translations=json.loads((ROOT/'data/hinglish.json').read_text())

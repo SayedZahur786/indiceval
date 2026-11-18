@@ -46,7 +46,7 @@ claim of a fully crossed language-by-task design is permitted.
 - Submission: immutable run bundle, disclosure, reviewer decision, report.
 
 ## Methodology decisions
-Use deterministic JSON equality for structured answers and Docker-isolated
+Use deterministic normalized exact/numeric equality for answers and Docker-isolated
 execution for Python code. Never execute model code directly on the host.
 Report malformed responses and request failures in the denominator. Unknown
 usage/pricing means unknown cost, never a fabricated zero. Only calculate
